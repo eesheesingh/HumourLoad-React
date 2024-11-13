@@ -5,7 +5,7 @@ import Home from './components/Home/Home.jsx';
 import Navbar from './components/Navbar/Navbar.jsx';
 import Footer from './components/Footer/Footer.jsx';
 import Emojis from './components/Emojis/Emojis.jsx';
-import AvatarIcon from './components/AvatarIcon/AvatarIcon.jsx';
+import AvatarIcon from './components/AVatarIcon/AvatarIcon.jsx';
 import ShowAll from './components/ShowAll/ShowAll.jsx';
 import QuoteLoad from './components/Home/Quote.jsx';
 import Quote from './components/JokeButton/QuoteBtn.jsx';

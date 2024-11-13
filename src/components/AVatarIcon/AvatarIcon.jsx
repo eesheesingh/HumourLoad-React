@@ -1,5 +1,4 @@
 // AvatarIcon.js
-import React, { useState } from 'react';
 import { avatar } from '../../assets';
 
 const AvatarIcon = () => {
