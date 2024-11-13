@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="mt-10 py-4 text-center text-gray-700 dark:text-gray-300 heading-font">
       <hr className="border-gray-300 dark:border-gray-600 mb-4 mx-4" />
-      <p className="text-lg font-semibold text-[#277a59]">
+      <p className="text-lg font-semibold text-[#000]">
         Made with ❣️ by 
         <a 
           href="https://www.instagram.com/eesheepal/" 
